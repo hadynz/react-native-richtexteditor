@@ -1,0 +1,11 @@
+{
+  "name": "react-native-richtexteditor",
+  "version": "1.0.0",
+  "description": "Rich text editor component for React Native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hady Osman",
+  "license": "MIT"
+}
